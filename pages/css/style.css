@@ -1,0 +1,275 @@
+	body {
+	  background: papayawhip;
+	  position: relative;
+	  max-height: 100%;
+	  margin: 10px 10px 10px 10px;
+	  padding: 10px 10px 10px 10px;
+	  overflow: auto;
+	  border: ridge;
+	  border-color: aqua;
+	}
+
+	#loves {
+	  color: black;
+	  font-family: comic sans;
+	  font-size: 1.65em;
+	  font-weight: bold;
+	  text-align: center;
+	  padding-bottom: 25px;
+	  padding-top: 25px;
+	}
+
+	#link {
+	  text-align: center;
+	  font-weight: bold;
+	  font-size: 1.25em;
+	}
+
+	.lovelist {
+	  text-decoration: underline black;
+	}
+
+	span {
+	  color: coral;
+	  font-size: 25pt;
+	  font-family: comic sans;
+	  font-weight: bold;
+	}
+
+	h3 {
+	  text-align: center;
+	  line-height: 1;
+	  font-size: 1.75em;
+	  font-weight: bold;
+	  font-style: oblique;
+	  font-family: emoji;
+	  padding-bottom: 25px;
+	  padding-top: 15px;
+	}
+
+	h2 {
+	  color: black;
+	  font-family: comic sans;
+	  font-weight: bold;
+	  text-align: center;
+	  text-transform: capitalize;
+	  font-size: 2em;
+	  line-height: 1;
+	  padding-bottom: 35px;
+	  padding-top: 35px;
+	}
+
+	h4 {
+	  color: cyan;
+	  font-weight: bolder;
+	  font-size: large;
+	  text-align: center;
+	  font-size: 1.50em;
+	}
+
+	h5 {
+	  position: relative;
+	  background-color: cyan;
+	  display: block;
+	  width: 500px;
+	  height: 100px;
+	  padding-bottom: 20px;
+	  padding-top: 20px;
+	  padding-left: 20px;
+	  padding-right: 20px;
+	  align-content: center;
+	  color: black;
+	  font-weight: bolder;
+	  font-size: large;
+	  text-align: center;
+	  font-size: 2em;
+	  left: 650px;
+	  top: 210px;
+	}
+
+	#para1, #para2, #para3, #para4 {
+	  color: darkturquoise;
+	  font-family: 'Oxygen';
+	  font-size: 1em;
+	  display: block;
+	  line-height: 2;
+	  padding: 25px;
+	}
+
+	.button1 {
+	  border-radius: 8px;
+	  width: 15%;
+	  padding: 5px 10px;
+	  font-size: 18px;
+	  text-align: center;
+	  font-weight: bolder;
+	  cursor: pointer;
+	  color: coral;
+	  background-color: cyan;
+	}
+
+	.button1:hover {
+	  background-color: darkcyan;
+	}
+
+	#div1 {
+	  background-color: lightsalmon;
+	  border: solid;
+	  text-align: center;
+	  font-size: larger;
+	  font-weight: bold;
+	  word-spacing: 2.5em;
+	}
+
+	#div2 {
+	  color: darkviolet;
+	  position: relative;
+	  font-size: 1.25em;
+	  font-family: comic sans;
+	  padding-bottom: 5px;
+	  padding-top: 15px;
+	  padding-left: 15px;
+	  padding-right: 15px;
+	  left: 560px;
+	  bottom: 70px;
+	}
+
+	#div3 {
+	  background-color: lightsalmon;
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 500px;
+	  height: 330px;
+	  padding-bottom: 25px;
+	  padding-top: 25px;
+	  padding-left: 25px;
+	  padding-right: 25px;
+	  align-content: center;
+	  vertical-align: center;
+	}
+
+	#div4 {
+	  position: relative;
+	  bottom: -50px;
+	  right: 200px;
+	  background-color: lightsalmon;
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 300px;
+	  height: 150px;
+	  padding-bottom: 25px;
+	  padding-top: 25px;
+	  padding-left: 25px;
+	  padding-right: 25px;
+	  align-content: center;
+	}
+
+	#div5 {
+	  position: relative;
+	  background-color: lightsalmon;
+	  display: block;
+	  width: 300px;
+	  height: 150px;
+	  padding-bottom: 25px;
+	  padding-top: 25px;
+	  padding-left: 25px;
+	  padding-right: 25px;
+	  align-content: center;
+	  left: 700px;
+	  bottom: 150px;
+	}
+
+	#div6 {
+	  color: white;
+	  font-weight: bolder;
+	  font-size: large;
+	  text-align: left;
+	  font-size: .5em;
+	  background-color: coral;
+	  border: solid;
+	  border-color: black;
+	}
+
+	.moving_pic1 {
+	  background-color: lightsalmon;
+	  display: block;
+	  margin-left: auto;
+	  margin-right: auto;
+	  width: 200px;
+	  height: 200px;
+	  padding-bottom: 25px;
+	  padding-top: 25px;
+	  padding-left: 25px;
+	  padding-right: 25px;
+	  align-content: center;
+	  vertical-align: center;
+	}
+
+	.moving_pic2 {
+	  background-color: lightsalmon;
+	  display: block;
+	  position: relative;
+	  left: 500px;
+	  top: 110px;
+	  width: 250px;
+	  height: 200px;
+	  padding-bottom: 25px;
+	  padding-top: 25px;
+	  padding-left: 25px;
+	  padding-right: 25px;
+	  align-content: center;
+	}
+
+	.pics {
+	  position: relative;
+	  top: 15px;
+	  left: 400px;
+	  width: 100%;
+	}
+
+	.relax {
+	  position: absolute;
+	  margin: 80px;
+	  padding: 50px;
+	  padding: 50px;
+	}
+
+	.form {
+	  background-color: lightsalmon;
+	  border-style: solid;
+	  font-weight: bold;
+	  width: 195px;
+	  height: 275px;
+	  padding-bottom: 50px;
+	  padding-top: 10px;
+	  padding-left: 25px;
+	  padding-right: 25px;
+	  position: relative;
+	  bottom: -175px;
+	  right: -200px;
+	}
+
+	input[type=button] {
+	  background-color: yellow;
+	  border: solid;
+	  color: black;
+	  text-decoration: none;
+	  margin: 4px 2px;
+	  cursor: pointer;
+	}
+
+	.table {
+	  padding: 10px;
+	  background-color: lightcyan;
+	  font-weight: bold;
+	  width: 400px;
+	  height: 200px;
+	  text-align: center;
+	  border-style: solid;
+	  border-color: black;
+	  position: relative;
+	  bottom: 150px;
+	  left: 750px;
+	}
